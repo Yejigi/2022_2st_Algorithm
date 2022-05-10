@@ -6,5 +6,3 @@
 | 1팀     | 123       | 공 던지기   | 링크      |
 | 우리조 기억해조     | 1000      | A+B | https://www.acmicpc.net/problem/1000      |
 | 3팀     | 789       | 별 구하기   | 링크      |
-| 알고리즘   | 10869 | 사칙연산   | https://www.acmicpc.net/problem/10869      |
-
