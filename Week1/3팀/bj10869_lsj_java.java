@@ -6,6 +6,7 @@ public class bj10869_lsj_java {
 		String str=input.nextLine();
 		String[] str_arr=str.split("\\s");
 		int[] value_table= {Integer.parseInt(str_arr[0]),Integer.parseInt(str_arr[1])};
+		input.close();
 		return value_table;
 	}
 	public static boolean validation_check(int[] val) {
