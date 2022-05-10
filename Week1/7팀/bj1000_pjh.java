@@ -1,4 +1,4 @@
-package bj_;
+package day1;
 import java.util.Scanner;
 
 public class bj_1000 {
