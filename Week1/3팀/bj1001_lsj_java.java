@@ -4,6 +4,7 @@ public class bj1001_lsj_java {
 	public static int[] input_val() {
 		Scanner input = new Scanner(System.in);
 		int[] val= {input.nextInt(),input.nextInt()};
+		input.close();
 		return val;
 	}
 	public static int minus(int a,int b) {
