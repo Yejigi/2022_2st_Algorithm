@@ -6,3 +6,6 @@
 | 유기농배추조 | 10869    | 사칙연산   |     https://www.acmicpc.net/problem/10869 |
 | 우리조 기억해조     | 1000      | A+B | https://www.acmicpc.net/problem/1000      |
 | 3팀     | 789       | 별 구하기   | 링크      |
+| R고리즘 | 1000      | A+B         |https://www.acmicpc.net/problem/1000|
+| 3팀     | 789       | 별 구하기   | 링크      |
+| 7팀     | 5522       | 카드 게임   | https://www.acmicpc.net/problem/5522      |
