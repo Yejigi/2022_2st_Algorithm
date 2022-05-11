@@ -1,4 +1,4 @@
-package day1;
+
 import java.util.Scanner;
 public class bj10869_lsj_java {
 	public static Scanner input = new Scanner(System.in);

@@ -1,4 +1,4 @@
-package day1;
+
 import java.util.Scanner;
 public class bj5522_lsj_java {
 	public static int[] score_input() {
