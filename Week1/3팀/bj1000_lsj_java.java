@@ -1,4 +1,4 @@
-package day1;
+
 import java.util.Scanner;
 public class bj1000_lsj_java {
 	public static int[] input_val() {
