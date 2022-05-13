@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 public class bj5522_lsj_java {
-	public static int[] score_input() {
+	public static int[] score_input() {				//기곰: 고생하셨습니다! :>
 		Scanner input = new Scanner(System.in);
 		int[] scores= {
 				input.nextInt(),

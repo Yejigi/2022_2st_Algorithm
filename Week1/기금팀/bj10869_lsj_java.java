@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 public class bj10869_lsj_java {
-	public static Scanner input = new Scanner(System.in);
+	public static Scanner input = new Scanner(System.in); //기곰 : 캬...빈틈이 없네요...대단하십니다!!..
 	public static int[] input_value() {
 		String str=input.nextLine();
 		String[] str_arr=str.split("\\s");

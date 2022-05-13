@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class bj2475_kmg {
-    public static void main(String[] args) {
+    public static void main(String[] args) {        //기곰: 고생하셨습니다 :>
         Scanner sc = new Scanner(System.in);
 
         int sum = 0;

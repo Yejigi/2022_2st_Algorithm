@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class bj2475_lsj_java {
+public class bj2475_lsj_java {						//기곰 : 입력받은 값을 배열로 저장하고 최근에 자바시간에 배웠었던 object클래스내의 메서드들을 활용하셨네요! 대단하세요! =^오^=b
 	public static int[] input_val() {
 		Scanner input = new Scanner(System.in);
 		String str=input.nextLine();
