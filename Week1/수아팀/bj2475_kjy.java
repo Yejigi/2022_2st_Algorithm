@@ -11,6 +11,6 @@ public class bj2475_kjy_java {
             powSum += Math.pow(in.nextInt(), 2);
         }
 
-        System.out.println(powSum % 10);
+        System.out.println(powSum % 10);   //수아: 복잡하고 어려울 수 있는 코드를 보기 편하게 해주셨네요!!(❁´◡`❁) 
     }
 }
