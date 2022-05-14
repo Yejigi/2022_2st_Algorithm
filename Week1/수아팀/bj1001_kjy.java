@@ -9,6 +9,6 @@ public class bj1001_kjy_java {
         int A = in.nextInt();
         int B = in.nextInt();
 
-        System.out.println(A - B);
+        System.out.println(A - B); //수아: 좋은 코드|･ω･｀)
     }
 }
