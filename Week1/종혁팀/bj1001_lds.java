@@ -1,5 +1,6 @@
 package Week1.7팀;
 
+//종혁 : 고생하셨습니다.
 import java.util.Scanner;
 
 public class bj1001_lds {
