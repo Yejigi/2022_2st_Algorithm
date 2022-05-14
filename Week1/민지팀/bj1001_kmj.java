@@ -1,4 +1,4 @@
-package week01_22;
+package week01_22;					//현우: 수고하셨습니다
 
 import java.util.Scanner;
 
