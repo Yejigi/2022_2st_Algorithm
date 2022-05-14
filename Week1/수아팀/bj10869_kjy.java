@@ -12,6 +12,6 @@ public class bj10869_kjy {
         System.out.println(A - B);
         System.out.println(A * B);
         System.out.println(A / B);
-        System.out.println(A % B);
+        System.out.println(A % B); //수아: 이해하기 쉽게 주석까지!! ＼( ˋ Θ ´ )／
     }
 }
