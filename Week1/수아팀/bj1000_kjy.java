@@ -9,6 +9,6 @@ public class bj1000_kjy_java {
         int A = in.nextInt();
         int B = in.nextInt();
 
-        System.out.println(A + B);
+        System.out.println(A + B); //수아:간단하고 깔끔한 코드네요! 좋아요|･ω･)
     }
 }
