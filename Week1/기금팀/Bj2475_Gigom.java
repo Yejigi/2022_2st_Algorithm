@@ -1,7 +1,7 @@
 package ComonW5;
 import java.util.Scanner;
 
-public class Bj2475_Gigom {
+public class Bj2475_Gigom { // 성재 : 완벽깔끔한 코드네요 고생하셨습니다!
 	public static void result() {
 		
 		Scanner sc = new Scanner(System.in);
