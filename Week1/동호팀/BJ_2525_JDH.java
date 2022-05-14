@@ -1,5 +1,5 @@
 package Week1;
-
+import java.util.Scanner;
 public class BJ_2525_JDH {
     public static void main(String[]args){
         Scanner in=new Scanner(System.in);
