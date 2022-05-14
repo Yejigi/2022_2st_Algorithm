@@ -1,5 +1,5 @@
 package week01_22;							//현우: 수고하셨습니다
-
+											//경모 : 고생하셨습니다
 import java.util.Scanner;
 
 public class bj1000_kmj {
