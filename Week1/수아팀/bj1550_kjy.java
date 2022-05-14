@@ -9,6 +9,6 @@ public class bj1550_kjy_java {
         String hex = in.next();
 
         int decimal = Integer.parseInt(hex, 16);
-        System.out.println(decimal);
+        System.out.println(decimal); //수아: 16진수 프로그램을 불러온 건가요! 잘 모르겠지만 좋네요~|ω・）
     }
 }
