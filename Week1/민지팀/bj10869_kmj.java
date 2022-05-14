@@ -2,7 +2,7 @@ package week01_22;
 
 import java.util.Scanner;
 
-public class bj10869_kmj {
+public class bj10869_kmj { 
 
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);

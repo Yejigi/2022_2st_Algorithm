@@ -1,4 +1,4 @@
-a = int(input())
+a = int(input())            #민지: 고생하셨습니당
 b = int(input())
 c = int(input())
 d = int(input())
