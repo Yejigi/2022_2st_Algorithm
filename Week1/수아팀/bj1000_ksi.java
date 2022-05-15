@@ -3,16 +3,12 @@ import java.util.Scanner;
 public class Main {
 
 	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 		Scanner in = new Scanner(System.in);
+		int a=in.nextInt();
+		int b=in.nextInt();
 		
-		int a = in.nextInt();
-		int b = in.nextInt();
-		
-		System.out.print(a + b);
-		
-
+		System.out.println(a+b);
 	}
 
 }
-
-//수빈 : 수고하셨습니다!
