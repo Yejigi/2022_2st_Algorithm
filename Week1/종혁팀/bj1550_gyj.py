@@ -1,2 +1,2 @@
-a = input()
+a = str(input())
 print(int(a, 16))

@@ -1,5 +1,4 @@
 A,B = input().split()
 A = int(A)
 B = int(B)
-print(A-B)
-##동호:수고하셨습니다.
+print(A-B) #유석 : 고생하셨습니다
