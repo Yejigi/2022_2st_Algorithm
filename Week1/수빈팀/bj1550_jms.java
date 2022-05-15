@@ -8,6 +8,3 @@ class Main {
      
       }
 }
-
-
-출처: https://blue-boy.tistory.com/75 [코딩배우는 학생🌎]
