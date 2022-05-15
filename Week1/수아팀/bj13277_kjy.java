@@ -13,3 +13,4 @@ public class bj13277_kjy_java {
         System.out.println(A.multiply(B));
     }
 }
+//수임 : 6문제 푸시느라 수고하셨어요~
