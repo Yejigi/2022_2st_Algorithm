@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 public class bj2475_lsj_java {						//기곰 : 입력받은 값을 배열로 저장하고 최근에 자바시간에 배웠었던 object클래스내의 메서드들을 활용하셨네요! 대단하세요! =^오^=b
-	public static int[] input_val() {
+	public static int[] input_val() {				//민규 : 수고하셨습니다! 코드 보고 많이 배울게요! :D
 		Scanner input = new Scanner(System.in);
 		String str=input.nextLine();
 		String[] str_arr=str.split("\\s");
