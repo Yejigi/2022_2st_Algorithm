@@ -3,4 +3,4 @@ b = int(input())
 c = int(input())
 d = int(input())
 e = int(input())
-print(a+b+c+d+e)
+print(a+b+c+d+e)   #유석 : 고생하셨습니다
