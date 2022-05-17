@@ -1,5 +1,14 @@
-a = int(input())
-if (a % 4 == 0 and a % 100 != 0) or a % 400 == 0:
-    print(1)
-else:
-    print(0)
+H, M = map(int, input().split())
+req_min = int(input())
+
+H += req_min // 60
+M += req_min % 60
+
+if M >= 60:
+    H += 1
+    M -= 60
+
+if H >= 24:
+    H -= 24
+
+print(H, M)
