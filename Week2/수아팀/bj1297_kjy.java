@@ -10,13 +10,12 @@ public class bj1297_kjy {
         double H = in.nextInt(); // 높이
         double W = in.nextInt(); // 폭
 
-        // i == ratio
-        // D^2 = (H*i)^2 + (W*i)^2 (피타고라스 정의)
-        // sqrt(i^2) = sqrt(D^2 / (H^2 + W^2))
-        // sqrt == √
+        // D^2 = (H*ratio)^2 + (W*ratio)^2 (피타고라스 정의)
+        // sqrt(ratio^2) = sqrt(D^2 / (H^2 + W^2))
         
+        // sqrt == √
         double ratio = Math.sqrt(D * D / (H * H + W * W));
-
+        // double형에서 int형으로 형변환
         System.out.println((int) (ratio * H) + " " + (int) (ratio * W));
 
     }
