@@ -1,9 +1,5 @@
-h, m = map(int, input().split())
-cm = int(input())
+import math
 
-m += cm
-h += m // 60
-m = m % 60
-h = h % 24
-
-print(h, m)
+d, h, w = map(int, input().split())
+print(int(d*h//math.sqrt((h*h)+(w*w))))
+print(int(d*w//math.sqrt((h*h)+(w*w))))
