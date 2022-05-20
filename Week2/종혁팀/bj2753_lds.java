@@ -13,3 +13,4 @@ public class bj2753_lds {
 		} else System.out.println("0");
 	}
 }
+// 종혁 : 고생하셨습니다. 중첩 if문을 활용하지 않고 하나의 if문으로 만드는 코드 배워갑니다.
