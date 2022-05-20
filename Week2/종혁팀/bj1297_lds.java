@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class bj1297_lds {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
@@ -12,3 +11,4 @@ public class bj1297_lds {
 		System.out.println((int)Math.sqrt(result * Math.pow(H, 2)) + " " + (int)Math.sqrt(result * Math.pow(W, 2)));
 	}
 }
+//종혁 : 고생하셨습니다.
