@@ -1,5 +1,5 @@
 
-import java.util.Scanner;
+import java.util.Scanner;				//기곰 : 고생하셨습니다 :>
 public class bj2525_lsj_java {
 	public static Scanner input=new Scanner(System.in);
 	public static int[] calculate_time(int[] time,int target_t) {

@@ -1,4 +1,4 @@
-h,m=map(int,input().split())
+h,m=map(int,input().split())    #기곰 : 고생하셨습니다 :>
 time=int(input())
 
 time_h =time // 60

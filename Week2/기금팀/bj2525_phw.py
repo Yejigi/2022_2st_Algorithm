@@ -1,4 +1,4 @@
-a,b = input().split()
+a,b = input().split()   #기곰 : 고생하셨습니다 :>
 c = input()
 
 a = int(a)

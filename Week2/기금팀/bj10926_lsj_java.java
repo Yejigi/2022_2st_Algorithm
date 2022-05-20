@@ -8,7 +8,7 @@ public class bj10926_lsj_java {
 		return str;
 	}
 	public static String concat(String str) {
-		return str.concat("??!");
+		return str.concat("??!"); 				//기곰: concat이 있었네요 ㅋㅋㅋ 상상도 못했었는데 ㄴㅇㄱ 고생하셨습니다! :D
 	}
 	public static void main(String[] args) {
 		System.out.println(concat(input()));

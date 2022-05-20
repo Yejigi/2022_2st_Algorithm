@@ -1,4 +1,4 @@
-package day2;
+package day2;	//기곰 : 고생하셨습니다 :>
 import java.util.Scanner;
 public class bj2753_lsj_java {
 	public static int input() {

@@ -1,5 +1,5 @@
 
-import java.util.Scanner;
+import java.util.Scanner;	//기곰: 고생하셨습니다 :>
 
 public class bj1297_lsj_java {
 	public static int[] input() {

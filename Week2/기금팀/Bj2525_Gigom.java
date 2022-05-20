@@ -4,17 +4,17 @@ import java.util.Scanner;
 public class Bj2525_Gigom {
 
 	public static void main(String[] args) {
-		int[] t = new int[2]; //Å©±â°¡ 2ÀÎ ¹è¿­ t¸¦ »ý¼º
+		int[] t = new int[2]; //í¬ê¸°ê°€ 2ì¸ ë°°ì—´ t ë¥¼ ìƒì„±
 		Scanner sc = new Scanner(System.in);
 		t[0] = sc.nextInt();
 		t[1] = sc.nextInt() + sc.nextInt();
 		sc.close();
-		//t[0] = ½Ã t[1] = ºÐ
-		while(t[1]>59) { //ºÐÀÌ 59°¡ ³Ñ¾î°¡°ÔµÇ¸éÀº ½Ã°£¿¡ 1ÀÌ ´õÇØÁö°í ºÐÀº 60À» »«°ªÀÌ µÈ´Ù.
+		//t[0] = ì‹œ t[1] = ë¶„
+		while(t[1]>59) { //ë¶„ì´ 59ê°€ ë„˜ì–´ê°€ê²Œ ë˜ë©´ì€ ì‹œê°„ì— 1ì´ ë”í•´ì§€ê³  ë¶„ì€ 60ì„ ëº€ê°’ì´ ëœë‹¤.
 			t[0]++;
 			t[1]-= 60;
 		}
-		while (t[0]>23) //À§ ºÐ°ú °°ÀÌ ½Ã°£µµ 23ÀÌ ³Ñ¾î°¡°ÔµÇ¸éÀº ½Ã°£Àº 24¸¦ »«°ªÀÌ µÈ´Ù.
+		while (t[0]>23) //ìœ„ ë¶„ê³¼ ê°™ì´ ì‹œê°„ë„ 23ì´ ë„˜ì–´ê°€ê²Œë˜ë©´ì€ ì‹œê°„ì€ 24ë¥¼ ëº€ê°’ì´ ëœë‹¤.
 			t[0]-= 24;
 		System.out.println(t[0] + " " + t[1]);
 	}
