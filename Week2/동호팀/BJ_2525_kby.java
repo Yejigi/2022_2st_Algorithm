@@ -19,3 +19,6 @@ public class Main{
 		System.out.println(f+" "+d);
 	}
 }
+
+
+//학민: 수고하셨습니다 :)
