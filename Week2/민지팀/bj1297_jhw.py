@@ -1,5 +1,5 @@
 D,H,W = input().split()
-D,H,W = int(D),int(H),int(W)
+D,H,W = int(D),int(H),int(W)                    #민지 : 고생하셨습니다 ~
 r = D/(H**2+W**2)**0.5    
 height = int(H*r)
 width = int(W*r)

@@ -1,7 +1,7 @@
 year = int(input())
 y1 = year % 4
 y2 = year % 100
-y3 = year % 400
+y3 = year % 400                                 #민지 : 고생하셨습니다 ~
 
 if y1 != 0:
     print(0)
