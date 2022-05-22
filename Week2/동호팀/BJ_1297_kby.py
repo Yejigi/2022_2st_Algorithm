@@ -6,3 +6,4 @@ print(int(b*diagonal), end=' ')
 print(int(c*diagonal))
 
 #학민: 수고하셨습니다 :)
+##동호:수고하셨습니다!
